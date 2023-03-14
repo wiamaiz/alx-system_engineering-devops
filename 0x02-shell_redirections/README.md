@@ -1,2 +1,1 @@
-#!/bin/bash
-me 
+0x02. Shell, I/O Redirections and filters
